@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/Psyclapped/Psyclapped/blob/output/github-contribution-grid-snake.svg)
+
 Oh hi, this is neat!
 
 Without further ado: bippity boppity boo.
