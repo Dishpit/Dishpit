@@ -18,6 +18,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zebmcneill&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zebmcneill&redirect=true)
 
+<a href="https://app.daily.dev/Psyclapped"><img src="https://api.daily.dev/devcards/261bbe703d8a43e18a7ca99d63e028a7.png?r=epr" width="400" alt="Zebulun McNeill's Dev Card"/></a>
+
 <a href="https://github.com/Psyclapped">
   <img align="center" src="https://profile-counter.glitch.me/Psyclapped/count.svg" />
 </a>
