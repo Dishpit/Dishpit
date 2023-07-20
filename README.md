@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/Psyclapped/Psyclapped/blob/output/github-contribution-grid-snake.svg)
-
 <a href='https://twitter.com/intent/follow?screen_name=Psyclapped'>
  <img align='center' src='https://img.shields.io/twitter/follow/Psyclapped?color=26a7de&label=follow%20me%20on%20twitter&logo=twitter&style=for-the-badge' />
 </a>
