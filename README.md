@@ -1,5 +1,5 @@
-<a href='https://twitter.com/intent/follow?screen_name=DishpitDev'>
- <img align='center' src='https://img.shields.io/twitter/follow/DishpitDev?color=26a7de&label=follow%20me%20on%20twitter&logo=twitter&style=for-the-badge' />
+<a href='https://twitter.com/intent/follow?screen_name=Dishpit'>
+ <img align='center' src='https://img.shields.io/twitter/follow/Dishpit?color=26a7de&label=follow%20me%20on%20twitter&logo=twitter&style=for-the-badge' />
 </a>
 <a href='https://github.com/Dishpit'>
   <img align='center' src='https://img.shields.io/github/stars/Dishpit?logo=github&style=for-the-badge' />
