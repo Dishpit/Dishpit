@@ -7,13 +7,7 @@
 
 ***
 
-HEY, YOU. Yes, YOU!!
-
-Do ya like code? Trying to learn it? Wanna find people to build with or projects to work on?
-
-Come join [the community](https://discord.gg/9qcWpDpDmw).
-
-Welcome home. ♥
+Come join [the Dishpit Games community](http://dishpitgames.com).
 
 ***
 
