@@ -7,7 +7,7 @@
 
 ***
 
-Come join [the Dishpit Games community](http://dishpitgames.com).
+Come join [the community](https://discord.gg/9qcWpDpDmw).
 
 ***
 
