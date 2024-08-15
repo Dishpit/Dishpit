@@ -7,7 +7,7 @@
 
 ***
 
-Come join [the community](https://discord.gg/9qcWpDpDmw).
+Come join [the community](https://discord.gg/szmDpbkeMx).
 
 ***
 
