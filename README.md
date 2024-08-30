@@ -7,7 +7,7 @@
 
 ***
 
-Come join [the community](https://discord.gg/szmDpbkeMx).
+Come join [the community](https://dishpit.dev/discord).
 
 ***
 
