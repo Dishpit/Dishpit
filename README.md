@@ -5,12 +5,6 @@
   <img align='center' src='https://img.shields.io/github/stars/Dishpit?logo=github&style=for-the-badge' />
 </a>
 
-***
-
-Come join [the community](https://dishpit.dev/discord).
-
-***
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=500&color=F738F2&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=150&lines=Oh+hi%2C+this+is+neat!;Without+further+ado%3A+bippity+boppity+boo.;Please+note+that+not+every+stat+here+is+100%25+accurate.;This+is+due+to+most+of+my+work+being+conducted+in+private+repos.;That%2C+and+the+API+for+the+stat+cards+seem+to+be+frozen+in+time.)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
